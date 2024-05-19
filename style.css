@@ -91,10 +91,14 @@ nav {
     list-style: none;
     margin-bottom: 15px;
     border-radius: 7px;
-    color: #fff;
     text-align: center;
+}
+
+a {
+    color: #fff;
     font-weight: 600;
     font-size: 0.9rem;
+    text-decoration: none;
 }
 
 
